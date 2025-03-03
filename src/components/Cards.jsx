@@ -1,6 +1,8 @@
 // Cards.jsx (Updated for Theme)
 import React from 'react';
 
+
+
 const Cards = ({ movie }) => {
   return (
     <div className="max-w-sm w-full rounded-2xl overflow-hidden shadow-lg bg-[#16213E] transform transition-all duration-500 hover:scale-105 hover:shadow-2xl relative group">

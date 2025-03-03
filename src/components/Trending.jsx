@@ -1,6 +1,6 @@
 // Trending.jsx
 import React, { useState, useEffect } from 'react';
-import Cards from './Cards/'; // Assuming your Cards.jsx is in the same directory
+import Cards from './Cards'; // Assuming your Cards.jsx is in the same directory
 
 const Trending = () => {
   const [movies, setMovies] = useState([]);
