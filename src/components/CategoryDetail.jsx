@@ -1,7 +1,7 @@
 // CategoryDetail.jsx
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import Cards from './Cards'; // Assuming your Cards.jsx is available
+
 
 
 const CategoryDetail = () => {
